@@ -1,10 +1,13 @@
 _repo: La-porte-des-reves_55259
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Feure, Georges de
     gutenberg_agent_id: '48248'
     url: http://www.gutenberg.org/2009/agents/48248
+covers:
+- cover_type: archival
+  image_path: 55259-h/images/cover.jpg
 creator:
   author:
     agent_name: Schwob, Marcel
@@ -18,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7814
     wikipedia: http://en.wikipedia.org/wiki/Marcel_Schwob
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55259#La-porte-des-reves
 gutenberg_bookshelf: FR Nouvelles
 gutenberg_issued: '2017-08-04'
 gutenberg_type: Text
